@@ -1,7 +1,9 @@
 # ig-stories-covid-resoures
-Scraper for fetching urgent needs from influencer's IG stories and keeping a realtime update on it.
-! Contact me for the Configuration file.
-! Open for Collaboration
+Scraper for fetching urgent needs from influencer's IG stories and keeping a real-time update on it. 
+--> Contact me for the Configuration file. 
+
+--> Open for Collaboration 
+
 
 # Currently Done:
  - Fetch IG Stories from influencers
