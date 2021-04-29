@@ -10,12 +10,12 @@ Scraper for fetching urgent needs from influencer's IG stories and keeping a rea
 
 - Fetch IG Stories from influencers
 - OCR the image using OCR API
-- Apply NLP or naive word-based search to find if story is 'urgent help' category.
+- Apply NLP or naive word-based search to find if the story lies in the 'urgent help' category.
 
 # TO-DO:
 
 - Store it results in MongoDB
 - Post the 'urgent help' stories to a collected catalouge.
-- Post it too:
+- Post it to:
   - Twitter : { IMG + OCR MetaData}
   - Instagram : @ig.covid_scrapper { IMG + OCR MetaData }
